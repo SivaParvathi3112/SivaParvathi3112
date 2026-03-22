@@ -32,3 +32,5 @@ I am a results-driven Software Engineer based in **Malta**, currently pivoting m
 * **LinkedIn:** [https://www.linkedin.com/in/mukhe-siva-parvathi-26974a186?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzxYW90aZT7%2B79FiA%2Bt72kQ%3D%3D]
 * **Location:** 📍 Malta
 
+  ![Siva's GitHub stats](https://github-readme-stats.vercel.app/api?username=SivaParvathi3112&show_icons=true&theme=radical)
+
