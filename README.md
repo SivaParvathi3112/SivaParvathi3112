@@ -26,6 +26,9 @@ I am a results-driven Software Engineer based in **Malta**, currently pivoting m
 * **Open Source Impact:** Successfully merged features in Go for cloud-native services.
 * **Relocated to Malta:** Ready for local or hybrid opportunities in iGaming, Fintech, or Tech sectors.
 
+### 📚 My Learning Lab
+* https://github.com/SivaParvathi3112/QA-Learning-Portfolio
+
 ---
 
 ### 📫 Let's Connect!
