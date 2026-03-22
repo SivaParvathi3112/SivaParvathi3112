@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Siva 👋 
 
-<!--
-**SivaParvathi3112/SivaParvathi3112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | 5+ Years Experience | C++ ➡️ Go & Test Automation**
 
-Here are some ideas to get you started:
+I am a results-driven Software Engineer based in **Malta**, currently pivoting my 5 years of C++ systems expertise into **Go (Golang)** and **SDET (Software Development Engineer in Test)** roles. I specialize in bridging the gap between high-quality backend development and robust automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Current Focus
+* **Open Source Contributor:** Currently contributing to the `prl-devops-service` project.
+* **Go Development:** Building scalable backend services and handling REST API / HTTP integrations.
+* **QA Automation:** Developing Go-based integration tests and infrastructure automation.
+* **Logic & DSA:** Solved 100+ challenges to maintain a strong algorithmic foundation.
+
+---
+
+### 🛠 Tech Stack & Tools
+* **Languages:** Go (Golang), C++, C# (.NET)
+* **Testing & QA:** Integration Testing, Selenium, Postman, Unit Testing
+* **DevOps & Tools:** Git, REST APIs, HTTP Protocols, Linux
+
+---
+
+### 📊 Professional Highlights
+* **5 Years C++ Experience:** Focused on system maintenance and complex bug resolution in high-reliability environments (Automotive domain).
+* **Open Source Impact:** Successfully merged features in Go for cloud-native services.
+* **Relocated to Malta:** Ready for local or hybrid opportunities in iGaming, Fintech, or Tech sectors.
+
+---
+
+### 📫 Let's Connect!
+* **LinkedIn:** [https://www.linkedin.com/in/mukhe-siva-parvathi-26974a186?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzxYW90aZT7%2B79FiA%2Bt72kQ%3D%3D]
+* **Location:** 📍 Malta
+
